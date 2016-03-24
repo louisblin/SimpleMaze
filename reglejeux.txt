@@ -1,0 +1,8 @@
+Les regles du jeu:
+Votre personnage est le '!'; le but du jeux est d'atteindre le @.
+Il est possible de passer une seule fois sur les cases: '-' et deux fois sur les cases '='.
+Au Niveau 3 apparait 'P' : une potion de legerté qui permet de marché sur les cases sans les brisés.
+Au niveau 4 un tunnel est crée: l'entree est 'E' et la sortie et 'S' sans possibilité de retour.
+Au niveau 5 des méchants : 'M' apparaissent il ne faut pas les toucher sinon vous perdez et le jeux est finie.
+ 
+Bonne chance !!
